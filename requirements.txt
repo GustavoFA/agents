@@ -1,0 +1,7 @@
+numpy>=1.23
+scipy>=1.10
+sounddevice>=0.4
+requests>=2.31
+openai-whisper
+torch>=2.0  
+ffmpeg-python>=0.2  
